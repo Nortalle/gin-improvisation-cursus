@@ -91,13 +91,13 @@ exprimer des émotions et des intentions. Ils sont souvent utilisés dans la
 Commedia dell'arte pour donner vie aux personnages et pour créer des situations
 comiques. Voici quelques-uns des points moteurs les plus importants :
 
-- Front
-- Nez
-- Menton
-- Torse
-- Ventre
-- Pubis
-- Genoux
+- Front : Détermination
+- Nez : Curiosité
+- Menton : Fierté ?
+- Torse : Assurance ?
+- Ventre : Avarice
+- Pubis : Impulsivité
+- Genoux : Direction ?
 
 Chaque point moteur peut être utilisé pour exprimer des émotions et des
 intentions différentes. Et nous allons les découvrir.
