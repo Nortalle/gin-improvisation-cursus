@@ -1,6 +1,6 @@
 # GIN Improvisation Cursus
 
-[![Licence](https://img.shields.io/github/license/gin-improvisation-cours)](./LICENSE.md)
+[![Licence](https://img.shields.io/github/license/Nortalle/gin-improvisation-cursus)](./LICENSE.md)
 
 Bienvenue sur le dépôt principal du curusus d'improvisation du
 [Groupe d'Impro du Nord (GIN)](https://gin-impro.ch/), À Yverdon-les-Bains.
