@@ -6,7 +6,7 @@
   [Présentation (web)](https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/index.html)
   ·
   [Présentation (PDF)](https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/01-commedia-dellarte-presentation.pdf)
-- Exercices : [Exercices](../03-exercices/README.md)
+- Exercices : [Exercices](../02-exercices/README.md)
 
 ## Table des matières
 
