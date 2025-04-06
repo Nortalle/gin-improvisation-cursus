@@ -288,6 +288,9 @@ Est-ce que vous avez des questions ?
 - [Illustration][illustration-objectifs] par
   [Aline de Nadai](https://unsplash.com/@alinedenadai) sur
   [Unsplash](https://unsplash.com/photos/j6brni7fpvs)
+- [Illustration][illustration-commedia] par
+  [Vivigi](https://unsplash.com/@vivigi) sur
+  [Unsplash](https://images.unsplash.com/photo-1667316763131-c43b9aadbff1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <!-- URLs -->
 
@@ -303,6 +306,8 @@ Est-ce que vous avez des questions ?
 <!-- Illustrations -->
 
 [illustration-principale]:
-	https://images.unsplash.com/photo-1631583090808-62c9569a9739?crop&h=720
+	https://images.unsplash.com/photo-1631583090808-62c9569a9739?fit=crop&h=720
 [illustration-objectifs]:
 	https://images.unsplash.com/photo-1516389573391-5620a0263801?fit=crop&h=720
+[illustration-commedia]:
+	https://images.unsplash.com/photo-1667316763131-c43b9aadbff1?fit=crop&h=720
