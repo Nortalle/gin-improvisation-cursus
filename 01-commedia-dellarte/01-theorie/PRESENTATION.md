@@ -8,7 +8,7 @@ size: 16:9
 paginate: true
 author: V. Guidoux, avec l'aide de GitHub Copilot
 title: GIN Improvisation Cursus - Cours 01 - Commedia dell'Arte
-description: Cours 01 - Commedia dell'Arte pour le cursus d'Improvisation du GIN à Yverdon-les-Bains.
+description: Présentation du cours sur la Commedia dell'arte et les points moteurs.
 url: https://nortalle.github.io/01-commedia-dellarte/01-theorie/index.html
 header: "**Cours 01 - Commedia dell'Arte**"
 footer: "**GIN** - Improvisation Cursus 2024-2025 - CC BY-SA 4.0"
@@ -27,9 +27,7 @@ _paginate: false
 [Support de cours][course-material] · [Présentation (web)][presentation-web] ·
 [Présentation (PDF)][presentation-pdf]
 
-<small>V. Guidoux, avec l'aide de
-[GitHub Copilot](https://github.com/features/copilot).</small>
-
+<small>V. Guidoux</small>  
 <small>Ce travail est sous licence [CC BY-SA 4.0][license].</small>
 
 ![bg brightness:2 opacity:0.2][illustration-principale]
@@ -42,205 +40,225 @@ _paginate: false
 
 ![bg right:40%][illustration-objectifs]
 
+## _Retrouvez plus de détails dans le support de cours_
+
+<!-- _class: lead -->
+
+_Cette présentation est un résumé du support de cours. Pour plus de détails,
+consultez le [support de cours][course-material]._
+
 ## La Commedia dell'arte
 
-- Dès 1545
-- Aussi appelée commedia all'improvviso
-- Pas de transcription écrite
-- Tournées itinérantes
-- Masques
+- Naît autour de 1545
+- Forme d’improvisation structurée (canevas)
+- Pas de textes écrits : liberté et subversion
+- Tournées, troupes itinérantes
+- Masques et archétypes
 
 ![bg right:40%][illustration-commedia]
 
 ## Les personnages
 
-Archétypes, caricatures,traits de caractère exagérés.
+Archétypes aux traits exagérés :
 
-- **Arlequin** : un valet rusé et agile.
-- **Colombine** : une servante malicieuse et amoureuse.
-- **Pantalon** : un vieillard avare et jaloux.
-- **Brighelle** : un valet sournois et manipulateur.
-- **Scaramouche** : un personnage comique.
+- **Arlequin** : valet agile, rusé, affamé
+- **Colombine** : servante malicieuse, souvent amoureuse
+- **Pantalon** : vieillard avare, jaloux
+- **Brighelle** : valet manipulateur, ambitieux
+- **Scaramouche** : comique, flamboyant, en quête de gloire
 
 ## Les points moteurs
 
-- Front : Détermination
-- Nez : Curiosité
-- Menton : Fierté ?
-- Torse : Assurance ?
-- Ventre : Avarice
-- Pubis : Impulsivité
-- Genoux : Direction ?
+Chaque point moteur influence le mouvement, l’attitude et le caractère.
 
-### Front
+<div class="columns-half">
+<div>
 
-**La détermination**
+- **Front** : Détermination, obsession
+- **Nez** : Curiosité, vigilance
+- **Menton** : Statut social perçu
+- **Torse** : Fierté, assurance
+
+</div>
+<div>
+
+- **Ventre** : Désir, faim, avidité
+- **Pubis** : Pulsions, sexualité
+- **Genoux** : Fuite, instinct, contradiction
+
+</div>
+</div>
+
+### Front — La détermination
 
 <div class="columns-half">
 <div>
 
 En avant :
 
-- Sait où il va
-- Prêt à agir
+- Volonté forte
+- Vision claire
+- Tête brûlée
 
 </div>
 <div>
 
-En arrière :
+En retrait :
 
-- Hésitant
-- Incertain
+- Hésitation
+- Peur de décider
+- Doute
 
 </div>
 </div>
 
-### Nez
-
-**La curiosité**
+### Nez — La curiosité
 
 <div class="columns-half">
 <div>
 
 En avant :
 
-- Curieuse
-- Intéressée
-- Attentive
+- Fouineur·euse
+- Observateur·rice
+- Actif·ve
 
 </div>
 <div>
 
-En arrière :
+En retrait :
 
-- Désintéressée
-- Indifférente
-- Distrait
+- Désintérêt
+- Détachement
+- Passivité
 
 </div>
 </div>
 
-### Menton
+### Menton — Le statut social projeté
 
-**Fierté**
+<div class="columns-half">
+<div>
+
+Relevé :
+
+- Arrogance
+- Supériorité
+- Prétention
+
+</div>
+<div>
+
+Baissé :
+
+- Soumission
+- Honte
+- Sentiment d’infériorité
+
+</div>
+</div>
+
+### Torse — La fierté
 
 <div class="columns-half">
 <div>
 
 En avant :
 
-- Fier
-- Sûr de lui
-- Confiant
+- Assurance
+- Présence affirmée
+- Fierté rayonnante
 
 </div>
 <div>
 
-En arrière :
+Affaissé :
 
-- Timide
-- Hésitant
-- Incertain
+- Retrait
+- Effacement
+- Humilité contrainte
 
 </div>
 </div>
 
-### Torse
-
-**Assurance**
+### Ventre — Le désir
 
 <div class="columns-half">
 <div>
 
 En avant :
 
-- Confiant
-- Sûr de lui
-- Prêt à agir
-
-</div>
-<div>
-
-En arrière :
-
-- Hésitant
-- Incertain
-- En retrait
-
-</div>
-</div>
-
-### Ventre
-
-**L'avarice**
-
-<div class="columns-half">
-<div>
-
-En avant :
-
+- Faim
 - Avidité
-- Égoïsme
-- Cupidité
+- Pulsions primaires
 
 </div>
 <div>
 
-En arrière :
+En retrait :
 
-- Générosité
-- Altruisme
-- Désintéressement
-
-</div>
-</div>
-
-### Pubis
-
-**L'impulsivité**
-
-<div class="columns-half">
-<div>
-
-En avant :
-
-- Pulsions
-- Désirs
-- Séduction
-
-</div>
-<div>
-
-En arrière :
-
+- Tempérance
+- Ascétisme
 - Retenue
-- Inhibition
-- Pudique
 
 </div>
+</div>
 
-### Genoux
-
-**La direction**
+### Pubis — L’impulsivité et la sensualité
 
 <div class="columns-half">
 <div>
 
 En avant :
 
-- Sait où il va
-- Prêt à agir
+- Séduction
+- Provocation
+- Réactivité animale
 
 </div>
 <div>
 
-De côté:
+En retrait :
 
-- Perdu
-- Indécis
+- Gêne
+- Inhibition
+- Pudeur
 
 </div>
 </div>
+
+### Genoux — L’instinct de fuite
+
+<div class="columns-half">
+<div>
+
+En avant :
+
+- Urgence
+- Peur
+- Fuite
+
+</div>
+<div>
+
+De côté ou arrière :
+
+- Contradiction
+- Volonté d’avancer freinée
+- Corps qui trahit
+
+</div>
+</div>
+
+## Les gestes des mains
+
+Postures complémentaires aux points moteurs :
+
+- **Vers la ceinture** : avarice, repli, contrôle
+- **Vers l’avant (paumes visibles)** : défense, hésitation
+- **Très mobiles** : extraversion, agitation émotionnelle
+- **Sur le torse ou le long du corps** : retenue, discrétion
+- **Dans le dos** : rigidité, autorité
 
 ## Questions
 

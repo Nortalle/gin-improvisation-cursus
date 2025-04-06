@@ -23,6 +23,7 @@
   - [Ventre](#ventre)
   - [Pubis](#pubis)
   - [Genoux](#genoux)
+- [Les gestes des mains](#les-gestes-des-mains)
 
 ## Objectifs
 
@@ -85,95 +86,119 @@ portent des costumes colorés. Voici quelques-uns des personnages les plus connu
 
 ## Les points moteurs
 
-Les points moteurs sont des parties du corps qui peuvent être utilisées pour
-exprimer des émotions et des intentions. Ils sont souvent utilisés dans la
-Commedia dell'arte pour donner vie aux personnages et pour créer des situations
-comiques. Voici quelques-uns des points moteurs les plus importants :
+Les points moteurs sont des zones du corps à partir desquelles une interprète
+peut initier son mouvement, sa posture ou son intention. En improvisation, ils
+permettent de créer des personnages expressifs et cohérents, en donnant un
+**centre de gravité émotionnel** ou comportemental au jeu.
 
-- Front : Détermination
-- Nez : Curiosité
-- Menton : Fierté
-- Torse : Assurance
-- Ventre : Avarice
-- Pubis : Impulsivité
-- Genoux : Direction
+Chaque point moteur donne une impulsion particulière au personnage : il teinte
+son rapport au monde, sa manière de se déplacer, de réagir et même de penser.
+Les points moteurs sont souvent exagérés ou caricaturaux dans la Commedia
+dell’arte, mais ils peuvent aussi être utilisés de façon plus subtile dans
+d’autres styles.
 
-Chaque point moteur peut être utilisé pour exprimer des émotions et des
-intentions différentes. Et nous allons les découvrir.
+Voici quelques points moteurs majeurs, accompagnés de leurs effets typiques :
 
 ### Front
 
-Le front représente la determination. Un personnage qui a le front en avant est
-déterminé, sûr de lui et prêt à agir. Il est souvent associé à des personnages
-qui sont confiants et qui ont une forte personnalité.
+Le front est le siège de la **détermination**, voire de l’**obsession**. Un
+personnage qui avance le front entre dans l’action avec force, parfois avec une
+**vision tunnel**. Iel est sûr·e de ses idées, souvent buté·e, et prêt·e à
+foncer.
 
-Au contraire, un personnage qui a le front en arrière est hésitant, timide et
-incertain. Il est souvent associé à des personnages qui manquent de confiance en
-eux et qui ont du mal à prendre des décisions.
+> Exemple : une leader entêtée, un justicier, ou une révolutionnaire idéaliste.
+
+À l’inverse, un front en retrait trahit **l’hésitation**, **la peur de
+s’imposer**, ou **l’évitement du conflit**.
 
 ### Nez
 
-Le nez représente la curiosité. Un personnage qui a le nez en avant est curieux,
-intéressé et attentif. Il est souvent associé à des personnages qui sont avides
-de connaissances et qui cherchent à en apprendre davantage sur le monde qui les
-entoure.
+Le nez exprime la **curiosité**, l’**envie de savoir**, le **besoin de flairer**
+ce qui se passe autour. Avancer le nez, c’est adopter une posture
+d’**exploration**, d’**attention**, parfois de **médintrusion** ou de
+**jugement**.
 
-Au contraire, un personnage qui a le nez en arrière est désintéressé,
-indifférent et distrait. Il est souvent associé à des personnages qui ne se
-soucient pas de ce qui se passe autour d'eux et qui sont peu enclins à s'engager
-dans des conversations ou des activités.
+> Exemple : un détective, un commère, un enfant qui découvre le monde.
+
+Un nez en retrait peut marquer **le désintérêt**, la **distance**, ou une
+volonté de ne pas se mêler des affaires des autres.
 
 ### Menton
 
-Le menton représente la fierté. Un personnage qui a le menton en avant est fier,
-sûr de lui et confiant. Il est souvent associé à des personnages qui ont une
-forte personnalité et qui sont prêts à défendre leurs opinions et leurs
-croyances.
+Le menton est lié à l’**image que le personnage a de son propre statut social**.
+Un menton relevé suggère une forme d’**arrogance**, de **supériorité**, ou de
+**dignité forcée**. Le personnage se donne de l’importance, parfois de façon
+disproportionnée.
 
-Au contraire, un personnage qui a le menton en arrière est timide, hésitant et
-incertain. Il est souvent associé à des personnages qui manquent de confiance en
-eux et qui ont du mal à s'affirmer. Ils sont souvent en retrait et évitent de
-prendre des décisions ou de s'engager dans des conversations.
+> Exemple : une aristocrate orgueilleuse, un professeur imbu de soi.
+
+Un menton rentré vers la gorge évoque la **soumission**, la **honte**, ou un
+sentiment d’**infériorité**. Le personnage se recroqueville pour éviter le
+regard des autres.
 
 ### Torse
 
-Le torse représente l'assurance. Un personnage qui a le torse en avant est sûr
-de lui, confiant et prêt à agir. Il est souvent associé à des personnages qui
-ont une forte personnalité et qui sont prêts à défendre leurs opinions et leurs
-croyances.
+Le torse représente la **fierté** et la **présentation de soi**. Un torse en
+avant traduit une **affirmation de son existence**, une **confiance
+rayonnante**. Si exagéré, cela peut basculer dans la **vanité** ou la
+**prétention**.
 
-Au contraire, un personnage qui a le torse en arrière est timide, hésitant et
-incertain. Il est souvent associé à des personnages qui manquent de confiance en
-eux et qui ont du mal à s'affirmer. Ils sont souvent en retrait et évitent de
-prendre des décisions ou de s'engager dans des conversations.
+> Exemple : une capitaine fière de son uniforme, un héros qui s'expose au
+> regard.
+
+Un torse affaissé ou rentré évoque le **manque de confiance**, la
+**discrétion**, voire une tentative de **se faire oublier**.
 
 ### Ventre
 
-Le ventre représente l'avarice. Un personnage qui a le ventre en avant est
-avide, égoïste et cupide. Il est souvent associé à des personnages qui cherchent
-à accumuler des richesses et à satisfaire leurs désirs matériels.
+Le ventre est le centre des **désirs primaires** : **faim**, **peur**, **envie
+de possession**. Un ventre en avant peut signaler une **gloutonnerie**, une
+**avidité**, ou une recherche de **satisfaction immédiate**.
 
-Au contraire, un personnage qui a le ventre en arrière est généreux, altruiste
-et désintéressé. Il est souvent associé à des personnages qui se soucient des
-autres et qui sont prêts à partager leurs ressources et leurs richesses.
+> Exemple : une riche marchande cupide, un ogre joyeux.
+
+À l’inverse, un ventre rétracté peut évoquer la **maîtrise de soi**, voire une
+**privation volontaire** ou un **ascétisme**.
 
 ### Pubis
 
-Le pubis représente l'impulsivité et l'instinct. Un personnage qui avance le
-pubis est conduit par ses désirs, ses pulsions ou sa séduction. Iel peut être
-perçu·e comme charnel·le, séducteur·rice, ou provocant·e. C’est un personnage
-qui agit d’abord avec le corps, avec intensité, et parfois sans réfléchir
+Le pubis est le point moteur de la **sexualité** et de l’**instinct**. Un
+personnage qui avance le bassin est souvent dans une **présence charnelle**, une
+**séduction assumée** ou une **provocation physique**. Cela peut aussi traduire
+une **impulsivité viscérale**, une **réactivité animale**.
 
-Au contraire, un personnage qui recule le bassin est dans la retenue, voire dans
-l’inhibition. Iel peut être pudique, bloqué·e, ou mal à l’aise avec ses émotions
-et ses désirs, ce qui peut créer des effets comiques de gêne ou d’auto-censure.
+> Exemple : un séducteur confiant, une personnage dominée par ses pulsions.
+
+Un pubis en retrait peut exprimer une forme de **pudeur**, de **gêne**, ou une
+tentative de **retrait émotionnel**.
 
 ### Genoux
 
-Les genoux représente la direction. Un personnage qui a les genoux en avant sait
-où il va, sait ce qu'il veut et est prêt à agir.
+Les genoux sont les messagers du **déséquilibre intérieur**. Quand ils avancent
+avant le reste du corps, ils révèlent un **instinct de fuite** ou un **besoin
+d’agir sans réfléchir**. Le personnage est dans l’**urgence**, dans un
+**instinct de survie**.
 
-Nous pouvons très bien imaginer un personnage qui est en train d'avancer, mais
-ses genoux sont en arrière. Ce personnage est perdu, il ne sait pas où il va et
-il est souvent associé à des personnages qui sont indécis et qui ont du mal à
-prendre des décisions.
+> Exemple : une Zanni peureuse mais rapide, un personnage fuyant toujours le
+> danger.
+
+Si les genoux partent de côté ou en arrière alors que le reste du corps avance,
+ils révèlent une **contradiction** : le personnage veut faire face, mais **son
+corps le trahit**.
+
+## Les gestes des mains
+
+En complément des points moteurs, les **positions et mouvements des mains**
+peuvent amplifier ou contredire les intentions corporelles. Voici quelques
+attitudes typiques :
+
+- **Mains vers la ceinture** : marquent l’**avarice**, le **repli**, ou le
+  **contrôle** des possessions.
+- **Mains vers l’avant (paumes visibles)** : attitude **défensive**,
+  **hésitante** ou **protectrice**.
+- **Mains très mobiles** (toutes directions) : marque d’**extraversion**, de
+  **logorrhée**, ou de **désordre émotionnel**.
+- **Mains sur le torse ou le long du corps** : posture de **discrétion**, de
+  **retenue**, voire **d’introversion**.
+- **Mains dans le dos** : symbole de **rigidité**, de **contrôle autoritaire**
+  ou de **hiérarchie militaire**.
