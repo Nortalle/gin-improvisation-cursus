@@ -14,7 +14,7 @@ capables de :
 - Appliquer les styles « À la manière de Ray Bradbury » et « Jean Tardieu » dans
   une improvisation moyenne ou longue
 - Adapter leur jeu aux contraintes dynamiques de catégories techniques (Tempo,
-  Croisée multiples, Télé Achat Fusillade)
+  Croisées multiples, Télé Achat Fusillade)
 - Expérimenter une palette d’émotions et de personnages contrastés pour enrichir
   leur jeu
 - Repérer les points d’amélioration personnels et collectifs à retravailler
@@ -134,7 +134,7 @@ capables de :
 
 > (Infos à compléter ou à définir ensemble si besoin)
 
-### Croisée multiples
+### Croisées multiples
 
 **Type :** En mixte  
 **Durée :** Moyenne  

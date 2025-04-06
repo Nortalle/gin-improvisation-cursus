@@ -13,11 +13,11 @@ d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 
 |            Cours | Contenu(s)         |
 | ---------------: | :----------------- |
-| [01](#-cours-01) | Commedia dell'Arte |
+| [01](#-cours-01) | Commedia dell'arte |
 
 ## 🕐 Cours 01
 
-### Commedia dell'Arte
+### Commedia dell'arte
 
 - Théorie : [Support de cours](./01-commedia-dellarte/01-theorie/README.md) ·
   [Présentation (web)](https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/index.html)

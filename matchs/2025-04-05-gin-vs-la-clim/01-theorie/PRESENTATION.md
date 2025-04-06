@@ -7,10 +7,10 @@ theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: V. Guidoux, avec l'aide de GitHub Copilot
-title: GIN Improvisation Cursus - Cours 01 - Commedia dell'Arte
+title: GIN Improvisation Cursus - Cours 01 - Commedia dell'arte
 description: Présentation du cours sur la Commedia dell'arte et les points moteurs.
 url: https://nortalle.github.io/01-commedia-dellarte/01-theorie/index.html
-header: "**Cours 01 - Commedia dell'Arte**"
+header: "**Cours 01 - Commedia dell'arte**"
 footer: "**GIN** - Improvisation Cursus 2024-2025 - CC BY-SA 4.0"
 headingDivider: 6
 -->
@@ -67,7 +67,7 @@ _paginate: false
 - 2 comparées, 2 mixtes
 - Catégories :
   - Télé Achat Fusillade
-  - Croisée multiples
+  - Croisées multiples
   - Dictionnaire
   - Tempo
 

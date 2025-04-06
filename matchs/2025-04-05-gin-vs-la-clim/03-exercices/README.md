@@ -47,7 +47,7 @@ Réveiller le corps, connecter le groupe, activer l’écoute et la spontanéit�
 - 4 improvisations : 2 comparées / 2 mixtes (4–5 min)
 - Catégories :
   - Télé Achat Fusillade
-  - Croisée multiples
+  - Croisées multiples
   - Dictionnaire
   - Tempo
 
