@@ -11,24 +11,21 @@ Les détails de chaque cours composant le cursus sont disponibles ci-dessous.
 Chaque cours est détaillé avec les contenus, les objectifs, les méthodes
 d'enseignement et d'apprentissage, et les méthodes d'évaluation.
 
-|            Cours | Contenu(s)                       |
-| ---------------: | :------------------------------- |
-| [01](#-cours-01) | Avant match & Commedia dell'Arte |
+|            Cours | Contenu(s)         |
+| ---------------: | :----------------- |
+| [01](#-cours-01) | Commedia dell'arte |
 
 ## 🕐 Cours 01
 
-### Avant match & Commedia dell'Arte
+### Commedia dell'arte
 
-- Théorie :
-  [Support de cours](./01-avant-match-et-commedia-dellarte/01-theorie/README.md)
+- Théorie : [Support de cours](./01-commedia-dellarte/01-theorie/README.md) ·
+  [Présentation (web)](https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/index.html)
   ·
-  [Présentation (web)](https://nortalle.github.io/gin-improvisation-cursus/01-avant-match-et-commedia-dellarte/01-theorie/index.html)
-  ·
-  [Présentation (PDF)](https://nortalle.github.io/gin-improvisation-cursus/01-avant-match-et-commedia-dellarte/01-theorie/01-avant-match-et-commedia-dellarte-presentation.pdf)
-- Exercices :
-  [Énoncés](./01-avant-match-et-commedia-dellarte/02-exercices/README.md)
+  [Présentation (PDF)](https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/01-commedia-dellarte-presentation.pdf)
+- Exercices : [Énoncés](./01-commedia-dellarte/02-exercices/README.md)
 
-[Voir les détails](./01-avant-match-et-commedia-dellarte/)
+[Voir les détails](./01-commedia-dellarte/)
 
 ## 📜 Licence
 
