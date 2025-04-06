@@ -8,7 +8,7 @@
   [Présentation (PDF)](https://nortalle.github.io/gin-improvisation-cursus/01-avant-match-et-commedia-dellarte/01-theorie/01-avant-match-et-commedia-dellarte-presentation.pdf)
 - Mini-projet : [Consignes](./02-mini-project/README.md) ·
   [Solution](./02-mini-project/solution/)
-- Exercices : [Énoncés et solutions](./03-exercices/README.md)
+- Exercices : [Exercices](./03-exercices/README.md)
 
 ## Objectifs
 
