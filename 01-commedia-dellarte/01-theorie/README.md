@@ -179,8 +179,7 @@ avant le reste du corps, ils révèlent un **instinct de fuite** ou un **besoin
 d’agir sans réfléchir**. Le personnage est dans l’**urgence**, dans un
 **instinct de survie**.
 
-> Exemple : une Zanni peureuse mais rapide, un personnage fuyant toujours le
-> danger.
+> Exemple : une peureuse mais rapide, un personnage fuyant toujours le danger.
 
 Si les genoux partent de côté ou en arrière alors que le reste du corps avance,
 ils révèlent une **contradiction** : le personnage veut faire face, mais **son

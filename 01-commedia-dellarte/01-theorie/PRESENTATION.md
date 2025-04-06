@@ -107,10 +107,12 @@ En retrait :
 
 - Hésitation
 - Peur de décider
-- Doute
+- Évitement du conflit
 
 </div>
 </div>
+
+Exemples : une leader entêtée, un justicier, ou une révolutionnaire idéaliste.
 
 ### Nez — La curiosité
 
@@ -119,9 +121,9 @@ En retrait :
 
 En avant :
 
-- Fouineur·euse
-- Observateur·rice
-- Actif·ve
+- Curiosité
+- Envie de savoir
+- Besoin de flairer
 
 </div>
 <div>
@@ -134,6 +136,8 @@ En retrait :
 
 </div>
 </div>
+
+Exemples : un détective, un commère, ou un enfant qui découvre le monde.
 
 ### Menton — Le statut social projeté
 
@@ -158,6 +162,8 @@ Baissé :
 </div>
 </div>
 
+Exemples : une aristocrate orgueilleuse, un professeur imbu de soi.
+
 ### Torse — La fierté
 
 <div class="columns-half">
@@ -167,19 +173,21 @@ En avant :
 
 - Assurance
 - Présence affirmée
-- Fierté rayonnante
+- Vanité ou prétention
 
 </div>
 <div>
 
 Affaissé :
 
-- Retrait
-- Effacement
-- Humilité contrainte
+- Manque de confiance
+- Discrétion
+- Se faire oublier
 
 </div>
 </div>
+
+Exemples : une capitaine fière de son uniforme, un héros qui s'expose au regard.
 
 ### Ventre — Le désir
 
@@ -188,21 +196,23 @@ Affaissé :
 
 En avant :
 
-- Faim
-- Avidité
-- Pulsions primaires
+- Désirs primaires
+- Gloutonnerie
+- satisfaction immédiate
 
 </div>
 <div>
 
 En retrait :
 
-- Tempérance
-- Ascétisme
+- Maîtrise de soi
+- Privation volontaire
 - Retenue
 
 </div>
 </div>
+
+Exemples : une riche marchande cupide, un ogre joyeux.
 
 ### Pubis — L’impulsivité et la sensualité
 
@@ -227,6 +237,8 @@ En retrait :
 </div>
 </div>
 
+Exemples : un séducteur confiant, une personnage dominée par ses pulsions.
+
 ### Genoux — L’instinct de fuite
 
 <div class="columns-half">
@@ -249,6 +261,8 @@ De côté ou arrière :
 
 </div>
 </div>
+
+Exemples : une peureuse mais rapide, un personnage fuyant toujours le danger.
 
 ## Les gestes des mains
 
