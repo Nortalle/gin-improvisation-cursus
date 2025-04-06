@@ -7,15 +7,15 @@ theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: V. Guidoux, avec l'aide de GitHub Copilot
-title: GIN Improvisation Cursus - Cours 01 - Avant match et Commedia dell'Arte
-description: Cours 01 - Avant match et Commedia dell'Arte pour le cursus d'Improvisation du GIN à Yverdon-les-Bains.
-url: https://nortalle.github.io/01-avant-match-et-commedia-dellarte/01-theorie/index.html
-header: "**Cours 01 - Avant match et Commedia dell'Arte**"
+title: GIN Improvisation Cursus - Cours 01 - Commedia dell'Arte
+description: Cours 01 - Commedia dell'Arte pour le cursus d'Improvisation du GIN à Yverdon-les-Bains.
+url: https://nortalle.github.io/01-commedia-dellarte/01-theorie/index.html
+header: "**Cours 01 - Commedia dell'Arte**"
 footer: "**GIN** - Improvisation Cursus 2024-2025 - CC BY-SA 4.0"
 headingDivider: 6
 -->
 
-# Cours 01 - Avant match et Commedia dell'Arte
+# Cours 01 - Commedia dell'Arte
 
 <!--
 _class: lead
@@ -58,11 +58,11 @@ Est-ce que vous avez des questions ?
 <!-- URLs -->
 
 [presentation-web]:
-	https://nortalle.github.io/gin-improvisation-cursus/01-avant-match-et-commedia-dellarte/01-theorie/index.html
+	https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/index.html
 [presentation-pdf]:
-	https://nortalle.github.io/gin-improvisation-cursus/01-avant-match-et-commedia-dellarte/01-theorie/01-avant-match-et-commedia-dellarte-presentation.pdf
+	https://nortalle.github.io/gin-improvisation-cursus/01-commedia-dellarte/01-theorie/01-commedia-dellarte-presentation.pdf
 [course-material]:
-	https://github.com/Nortalle/gin-improvisation-cursus/blob/main/01-avant-match-et-commedia-dellarte/01-theorie/README.md
+	https://github.com/Nortalle/gin-improvisation-cursus/blob/main/01-commedia-dellarte/01-theorie/README.md
 [license]:
 	https://github.com/Nortalle/gin-improvisation-cursus/blob/main/LICENSE.md
 
