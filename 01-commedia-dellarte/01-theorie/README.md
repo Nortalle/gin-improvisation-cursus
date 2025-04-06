@@ -18,7 +18,8 @@
 - [Les points moteurs](#les-points-moteurs)
   - [Front](#front)
   - [Nez](#nez)
-  - [Menton / Torse](#menton--torse)
+  - [Menton](#menton)
+  - [Torse](#torse)
   - [Ventre](#ventre)
   - [Pubis](#pubis)
   - [Genoux](#genoux)
@@ -91,11 +92,11 @@ comiques. Voici quelques-uns des points moteurs les plus importants :
 
 - Front : Détermination
 - Nez : Curiosité
-- Menton : Fierté ?
-- Torse : Assurance ?
+- Menton : Fierté
+- Torse : Assurance
 - Ventre : Avarice
 - Pubis : Impulsivité
-- Genoux : Direction ?
+- Genoux : Direction
 
 Chaque point moteur peut être utilisé pour exprimer des émotions et des
 intentions différentes. Et nous allons les découvrir.
@@ -122,7 +123,7 @@ indifférent et distrait. Il est souvent associé à des personnages qui ne se
 soucient pas de ce qui se passe autour d'eux et qui sont peu enclins à s'engager
 dans des conversations ou des activités.
 
-### Menton / Torse
+### Menton
 
 Le menton représente la fierté. Un personnage qui a le menton en avant est fier,
 sûr de lui et confiant. Il est souvent associé à des personnages qui ont une
@@ -130,6 +131,18 @@ forte personnalité et qui sont prêts à défendre leurs opinions et leurs
 croyances.
 
 Au contraire, un personnage qui a le menton en arrière est timide, hésitant et
+incertain. Il est souvent associé à des personnages qui manquent de confiance en
+eux et qui ont du mal à s'affirmer. Ils sont souvent en retrait et évitent de
+prendre des décisions ou de s'engager dans des conversations.
+
+### Torse
+
+Le torse représente l'assurance. Un personnage qui a le torse en avant est sûr
+de lui, confiant et prêt à agir. Il est souvent associé à des personnages qui
+ont une forte personnalité et qui sont prêts à défendre leurs opinions et leurs
+croyances.
+
+Au contraire, un personnage qui a le torse en arrière est timide, hésitant et
 incertain. Il est souvent associé à des personnages qui manquent de confiance en
 eux et qui ont du mal à s'affirmer. Ils sont souvent en retrait et évitent de
 prendre des décisions ou de s'engager dans des conversations.
@@ -154,10 +167,6 @@ qui agit d’abord avec le corps, avec intensité, et parfois sans réfléchir
 Au contraire, un personnage qui recule le bassin est dans la retenue, voire dans
 l’inhibition. Iel peut être pudique, bloqué·e, ou mal à l’aise avec ses émotions
 et ses désirs, ce qui peut créer des effets comiques de gêne ou d’auto-censure.
-
-Ce point moteur est très présent dans les personnages comme **Scaramouche** ou
-la servante **Colombine**, qui jouent avec la sensualité, la provocation ou les
-quiproquos amoureux.
 
 ### Genoux
 
