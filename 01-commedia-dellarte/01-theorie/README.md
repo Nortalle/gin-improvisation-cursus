@@ -27,8 +27,7 @@
 
 Ce cours a pour but de vous faire découvrir la Commedia dell'arte et ses
 personnages, ainsi que de vous faire découvrir les différents points moteurs qui
-sont utilisés dans le cadre de l'improvisation théâtrale. Et surtout, de vous
-préparer à un match d'improvisation.
+sont utilisés dans le cadre de l'improvisation théâtrale.
 
 De façon plus précise, les personnes qui suivent ce cours devraient être
 capables de :
@@ -42,7 +41,6 @@ De plus, les personnes qui suivent ce cours devraient avoir pu :
 - Expérimenter la Commedia dell'arte
 - Expérimenter les différents points moteurs
 - Expérimenter les différents personnages de la Commedia dell'arte
-- Expérimenter un match d'improvisation
 
 ## La Commedia dell'arte
 
